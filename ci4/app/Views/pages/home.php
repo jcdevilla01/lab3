@@ -1,9 +1,10 @@
 
 
-<?= $this->section('style') ?>
-    <link rel="stylesheet" href="style.css">
-<?= $this->endSection() ?>
-<section>
+
+<body>
+	<link rel="stylesheet" href="css/style.css">
+	<script src="js/script.js"></script>
+    <section>
         <h2><?php echo 'About Me'; ?></h2>
         <p>
             <?php echo "Welcome to my profile! I've been an APC student since senior high at the start of the pandemic. This means that I have been in APC for 4 years.
@@ -39,3 +40,5 @@
             <li>GitHub: <a href="https://github.com/jcdevilla01" target="_blank">GitHub</a></li>
         </ul>
     </section>
+</body>
+		
