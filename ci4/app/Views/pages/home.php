@@ -40,5 +40,9 @@
             <li>GitHub: <a href="https://github.com/jcdevilla01" target="_blank">GitHub</a></li>
         </ul>
     </section>
+	
+	<section>
+		<a id="contact-view" class="contact-text-buttons" href="./guest">view feedbacks</a><br><br>
+	</section>
 </body>
 		
